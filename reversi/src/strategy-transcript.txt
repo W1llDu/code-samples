@@ -1,0 +1,9 @@
+// FROM: testGreedyOnStartingBoard
+// LOG:
+Summarizer publictest.MockGreedy$MockGreedySummarizer run.
+Accessed: AxialCoordinate{q=-1, r=-1, s=2}
+Accessed: AxialCoordinate{q=1, r=-2, s=1}
+Accessed: AxialCoordinate{q=-2, r=1, s=1}
+Accessed: AxialCoordinate{q=2, r=-1, s=-1}
+Accessed: AxialCoordinate{q=-1, r=2, s=-1}
+Accessed: AxialCoordinate{q=1, r=1, s=-2}
