@@ -1,0 +1,8 @@
+Reversi:
+A hexagonal reversi game with text and graphical interfaces, allowing players to play against a local opponent, show moves and point values of moves, and supplying a few composable AI agents to play against.
+
+DS:
+Interactive implementations of binomial heaps, hash tables, red-black trees, and skiplists
+
+SquareGame:
+A text-based game where two players remove squares from columns, and the last player to remove squares wins.
